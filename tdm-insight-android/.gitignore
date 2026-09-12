@@ -1,0 +1,57 @@
+## Android Studio / IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+.idea/caches/
+
+## Gradle
+.gradle/
+build/
+**/build/
+local.properties
+gradle.properties.local
+
+## Android
+*.apk
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+out/
+release/
+
+## Keys / signing (NEVER commit these)
+*.jks
+*.keystore
+keystore.properties
+
+## OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+## Logs
+*.log
+
+## Dependency caches
+.kotlin/
+**/.kotlin/
+
+## Test results
+test-results/
+reports/
+
+## APK files (except the release one we intentionally track)
+!apk/app-release.apk
