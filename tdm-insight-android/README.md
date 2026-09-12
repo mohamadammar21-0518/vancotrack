@@ -30,9 +30,9 @@
 
 | Name | Student ID |
 |---|---|
-| [Student Name 1] | [Student ID 1] |
-| [Student Name 2] | [Student ID 2] |
-| [Student Name 3] | [Student ID 3] |
+| Mohamad Ammar | AIU24102204 |
+| Mohamed Shohan | [Student ID 2] |
+| Harish Ramalingam | [Student ID 3] |
 
 ---
 
