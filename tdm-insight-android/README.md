@@ -31,8 +31,8 @@
 | Name | Student ID |
 |---|---|
 | Mohamad Ammar | AIU24102204 |
-| Mohamed Shohan | [Student ID 2] |
-| Harish Ramalingam | [Student ID 3] |
+| Mohamed Shohan | AIU24102201 |
+| Harish Ramalingam | AIU24102348 |
 
 ---
 
