@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base app theme – no action bar, Compose handles all chrome -->
+    <style name="Theme.TdmInsight" parent="android:style/Theme.Material.Light.NoActionBar">
+        <!-- Window colours matching the Compose theme -->
+        <item name="android:windowBackground">@color/splash_bg</item>
+        <item name="android:statusBarColor">#0F2A4A</item>
+        <item name="android:navigationBarColor">#F4F7FB</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:colorAccent">#0C9B8A</item>
+    </style>
+
+</resources>
