@@ -1,0 +1,3 @@
+# TDM Insight uses reflection-free Kotlin and Compose models.
+# Keep the application entry point and ViewModel names readable for academic debugging.
+-keep class my.edu.aiu.app.tdminsight.** { *; }
